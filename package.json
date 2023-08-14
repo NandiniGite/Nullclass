@@ -8,7 +8,7 @@
     "start": "nodemon index.js",
     "server": "node index.js"
   },
-  "author": "Gautam Jha",
+  "author": "Nandini Gite",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
